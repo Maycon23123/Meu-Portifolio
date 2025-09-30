@@ -208,7 +208,6 @@ A palestra mostrou que o **desenvolvimento Low Code** é uma tendência que **de
 🎤 **Promotora:** Fundação Iochpe  
 👩‍🏫 **Palestrante:** Flávia Freitas  
 
----
 
 ## 📝 O que foi dito na palestra
 Na live transmitida pelo YouTube, a palestrante **Flávia Freitas** ressaltou a importância da **preparação contínua para o mercado de trabalho**, mostrando como os cursos técnicos da **Etec** podem servir como porta de entrada para a **Fatec** e para oportunidades ainda maiores.  
@@ -219,8 +218,6 @@ Foram apresentados conselhos práticos para os estudantes, com destaque para:
 - 📚 **Estar sempre disposto a aprender**;  
 - 🌟 **Valorizar as oportunidades** que surgem durante a jornada educacional e profissional.  
 
----
-
 ## 📌 Resumo
 A palestra destacou que a educação técnica e superior, aliada à dedicação e à busca constante por conhecimento, abre caminhos reais para o futuro profissional. O evento inspirou os estudantes a enxergarem a **Etec e a Fatec como trampolins para o mundo**, reforçando a importância do preparo, da resiliência e da valorização de cada etapa da formação.  
 
@@ -229,7 +226,6 @@ A palestra destacou que a educação técnica e superior, aliada à dedicação 
 🎤 **Promotora:** Fundação Iochpe  
 👨‍🏫 **Palestrante:** Caio Matos  
 
----
 
 ## 📝 O que foi dito na palestra
 Nesta live transmitida pelo canal da Fundação Iochpe no YouTube, **Caio Matos** apresentou o impacto da **Web3** e da **propriedade digital** no mundo atual.  
@@ -241,8 +237,6 @@ Entre os pontos abordados, destacaram-se:
 - 💡 **Exemplos práticos de aplicações** e oportunidades de inovação;  
 - 🚀 **O impacto no mercado de trabalho** e a necessidade de **novas competências digitais**.  
 
----
-
 ## 📌 Resumo
 A palestra mostrou que a Web3 não é apenas uma mudança tecnológica, mas uma **transformação cultural e econômica**, capaz de redefinir a forma como lidamos com a **propriedade digital**.  
 O evento reforçou que compreender e desenvolver habilidades ligadas a esse ecossistema será essencial para profissionais do futuro.  
@@ -250,18 +244,13 @@ O evento reforçou que compreender e desenvolver habilidades ligadas a esse ecos
 # 💻 Palestra Remota: Desafios do Primeiro Emprego em TI e Como Superá-los  
 📅 **Data:** 10/04/2025  
 
----
-
 ## 📝 O que foi dito na palestra
 Nesta palestra remota, fomos apresentados à realidade da área de **TI no mercado de trabalho**, entendendo os principais desafios e oportunidades que surgem para quem busca o **primeiro emprego**.  
-
 Entre os tópicos discutidos, destacaram-se:  
 - 🤖 **A influência da Inteligência Artificial** sobre o mercado de trabalho em TI;  
 - 🎯 **Dificuldades comuns** ao buscar uma primeira oportunidade;  
 - 🌐 **Estratégias para ser reconhecido**, como montar um perfil profissional no **LinkedIn** e criar projetos pessoais no **GitHub**;  
 - 📚 **A importância da atualização constante** para se manter competitivo na área.  
-
----
 
 ## 📌 Resumo
 A palestra reforçou que o início da carreira em TI pode ser desafiador, mas existem caminhos para se destacar: **usar a tecnologia a seu favor, construir uma presença digital sólida e nunca parar de aprender**.  
@@ -269,8 +258,6 @@ A mensagem central foi clara: **dedicação e atualização constante são as ch
 
 # 🖥️ Palestra: Bate-papo Tech ITIX – Carreira e Suporte na Prática  
 📅 **Data:** 16/04/2025  
-
----
 
 ## 📝 O que foi dito na palestra
 Durante este bate-papo, foram discutidos pontos essenciais para quem está construindo ou consolidando sua carreira em **TI**.  
