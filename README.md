@@ -278,3 +278,119 @@ No encerramento, houve uma **dinâmica prática**:
 ### 📌 Resumo
 A palestra mostrou que o sucesso em TI vai além da técnica: exige **comunicação clara, colaboração entre áreas e aprendizado contínuo**.  
 A dinâmica final reforçou, de forma prática, como **suporte e desenvolvimento precisam trabalhar juntos** para resolver problemas de maneira eficiente.  
+
+# 🌟 Palestra Remota: LinkedIn e Marca Pessoal para Profissionais de TI  
+📅 **Data:** 23/04/2025  
+
+## 📝 O que foi dito na palestra
+O objetivo da palestra foi mostrar como utilizar o **LinkedIn de forma estratégica** para fortalecer a **marca pessoal** e ampliar as oportunidades de **networking**.  
+
+Entre os principais pontos discutidos, destacaram-se:  
+- 🧩 **Definição e importância da marca pessoal**;  
+- 🏗️ **Construção de uma imagem profissional sólida**;  
+- 📸 **Recomendações para foto de perfil e título**;  
+- 🚀 **Estratégias para otimizar o perfil** e destacar habilidades;  
+- 💬 **Interação ativa na rede** por meio de posts, comentários e conexões.  
+
+### 📌 Resumo
+A palestra reforçou que o **posicionamento estratégico em ambientes digitais** é essencial para aumentar a **visibilidade profissional** e se preparar para futuras oportunidades no mercado de trabalho.  
+O LinkedIn, quando bem utilizado, se torna um **aliado poderoso** na construção da carreira em TI.  
+
+# 🚀 Palestra Remota: Empreendedorismo e Inovação na Tecnologia  
+📅 **Data:** 13/05/2025  
+👩‍🏫 **Palestrante:** Luciana Ogusco  
+
+## 📝 O que foi dito na palestra
+O objetivo da palestra foi discutir os **desafios e oportunidades de empreender em TI**, trazendo exemplos reais de **startups** e **inovação tecnológica**.  
+
+A palestrante **Luciana Ogusco** compartilhou suas experiências pessoais no setor, abordando tanto erros quanto acertos de sua trajetória profissional.  
+A partir disso, foram apresentados conselhos e reflexões sobre:  
+- 🔍 **Como identificar oportunidades de inovação**;  
+- ⚡ **Principais desafios enfrentados por uma startup**;  
+- 💡 **Aprender com falhas e persistir** no processo empreendedor;  
+- 🌍 **Impacto da inovação tecnológica** no mercado atual e futuro.  
+
+
+### 📌 Resumo
+A palestra mostrou que empreender em TI exige **resiliência, criatividade e adaptação**, além de disposição para aprender com erros e transformar ideias em soluções inovadoras.  
+O encontro reforçou que a inovação é um dos motores do mercado tecnológico e uma competência essencial para profissionais que desejam se destacar no futuro.  
+
+# ⏱️ Palestra Remota: Produtividade e Organização no Dia a Dia  
+📅 **Data:** 20/08/2025  
+
+
+## 📝 O que foi dito na palestra
+O objetivo da palestra foi apresentar **ferramentas e estratégias** para melhorar a **produtividade e organização** no cotidiano, tanto no ambiente **remoto** quanto no **presencial**.  
+
+Durante a apresentação, foram abordados:  
+- 🗂️ **Técnicas de organização** aplicáveis ao dia a dia;  
+- 📆 **Métodos de gestão de tempo**;  
+- ⚖️ **Boas práticas para equilibrar vida profissional e pessoal**;  
+- 🧭 **Uso da Matriz de Eisenhower** para definir prioridades;  
+- 🎯 **Técnicas complementares de planejamento e foco**.  
+
+
+### 📌 Resumo
+A palestra destacou a importância da **autogestão** e do uso de **ferramentas práticas** para aumentar a eficiência e reduzir o estresse no trabalho.  
+Com técnicas simples e estratégias bem aplicadas, é possível alcançar maior **equilíbrio**, **produtividade** e **foco** no dia a dia.
+
+# 🗄️ Treinamento Presencial: Banco de Dados  
+📅 **Data:** 27/08/2025  
+
+## 📝 O que foi dito no treinamento
+Durante o treinamento, foram apresentados conceitos fundamentais e avançados relacionados a **Bancos de Dados**.  
+
+Entre os principais tópicos abordados, destacaram-se:  
+
+### 📚 Conceitos básicos
+- 🗂️ **SGBDRs** (Sistemas de Gerenciamento de Banco de Dados Relacional)  
+- 📋 **Tabelas**  
+- 🔑 **Chave Primária** e **Chave Estrangeira**  
+
+### ⚙️ Conceitos avançados
+- 🧮 **Funções**  
+- 📝 **Stored Procedures**  
+- ⏱️ **Triggers**  
+
+Após a palestra, tivemos atividades práticas em laboratório, aplicando os conceitos aprendidos por meio de comandos **SQL** como:  
+- `INSERT`  
+- `SELECT`  
+- entre outros.  
+
+### 📌 Resumo
+O treinamento proporcionou uma visão clara sobre os **fundamentos dos bancos de dados** e como eles se conectam com recursos mais avançados.  
+A prática em laboratório reforçou o aprendizado, mostrando a importância de **aliar teoria e prática** para dominar o uso de **SQL** no dia a dia profissional.  
+
+# 🔒 Palestra Remota: Segurança da Informação e Cibersegurança  
+📅 **Data:** 03/09/2025  
+
+## 📝 O que foi dito na palestra
+O objetivo da palestra foi **conscientizar** sobre a importância da **Segurança da Informação** e apresentar **medidas práticas** para proteger dados pessoais e corporativos.  
+
+Entre os principais pontos abordados, destacaram-se:  
+- 🔑 **MFA (Multi-Factor Authentication)** como camada adicional de segurança;  
+- 🔐 **Criação de senhas fortes e seguras**;  
+- 🎣 **Técnicas de phishing** e como identificá-las;  
+- 🛡️ **Práticas essenciais para reduzir riscos** de ataques cibernéticos.  
+
+### 📌 Resumo
+A palestra reforçou que a **cibersegurança é indispensável** tanto no cotidiano quanto no ambiente profissional.  
+Foram mostradas ações simples que, quando aplicadas, ajudam a **proteger informações sensíveis** e reduzir a exposição a ameaças digitais.  
+Pequenas mudanças de hábito podem fazer uma grande diferença na segurança de dados.  
+
+# 🤖 Palestra Remota: Inteligência Artificial na Prática – Aplicações no Mercado  
+📅 **Data:** 16/09/2025  
+
+## 📝 O que foi dito na palestra
+O objetivo da palestra foi mostrar como utilizar a **Inteligência Artificial** como aliada na **organização, gestão de tempo e boas práticas** no trabalho remoto e presencial.  
+
+Durante a apresentação, fomos introduzidos a diversas **aplicações práticas da IA** no dia a dia profissional, com dicas para explorar todo o seu potencial.  
+Entre os benefícios destacados, estão:  
+- ⏱️ **Redução de tempo** em tarefas repetitivas e demoradas;  
+- 📊 **Análise de dados** que poderiam passar despercebidos por humanos;  
+- 🛡️ **Detecção de conteúdos falsos ou maliciosos**, como fraudes, golpes e spam (exemplo: sistema do **iFood**).  
+
+### 📌 Resumo
+A palestra reforçou que a **IA é uma ferramenta poderosa** para aumentar a produtividade e a eficiência no trabalho.  
+Além de automatizar tarefas, ela contribui para análises mais profundas e para a **segurança digital**, tornando-se indispensável no mercado atual e futuro.  
+
