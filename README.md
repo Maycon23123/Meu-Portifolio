@@ -157,7 +157,7 @@ Ele destacou:
 
 Ao final, os participantes foram convidados a refletir e responder sobre os conceitos abordados durante a apresentação.  
 
-## 📌 Resumo
+### 📌 Resumo
 A palestra apresentou os **homelabs** como uma ferramenta essencial para quem deseja crescer na área de TI. Criar um ambiente de testes e aprendizado em casa é uma prática que não apenas fortalece o conhecimento técnico, mas também prepara os profissionais para enfrentar desafios reais do dia a dia.
 
 <img src="img/(2)18-06-24.jpg" width="600"/>
