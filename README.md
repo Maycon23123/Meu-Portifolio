@@ -18,6 +18,8 @@ Durante a palestra, foram apresentadas as **rotinas diárias** e os **principais
 ### ✨ Resumo  
 A palestra proporcionou uma compreensão mais clara sobre a **realidade do analista de suporte**, destacando suas responsabilidades, dificuldades comuns e a importância do seu papel para o bom funcionamento das empresas.  
 
+<img src="img/27-04-23.jpg" width="400"/>
+
 ## 🤝 Palestra: Boas-Vindas da ITIX com o Sócio Proprietário Carlos Santos  
 **Data:** 04/05/2023  
 
