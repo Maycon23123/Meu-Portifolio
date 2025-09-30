@@ -218,7 +218,7 @@ Foram apresentados conselhos práticos para os estudantes, com destaque para:
 - 📚 **Estar sempre disposto a aprender**;  
 - 🌟 **Valorizar as oportunidades** que surgem durante a jornada educacional e profissional.  
 
-## 📌 Resumo
+### 📌 Resumo
 A palestra destacou que a educação técnica e superior, aliada à dedicação e à busca constante por conhecimento, abre caminhos reais para o futuro profissional. O evento inspirou os estudantes a enxergarem a **Etec e a Fatec como trampolins para o mundo**, reforçando a importância do preparo, da resiliência e da valorização de cada etapa da formação.  
 
 # 🌐 Live: A Revolução da Web3 e a Propriedade Digital  
@@ -237,7 +237,7 @@ Entre os pontos abordados, destacaram-se:
 - 💡 **Exemplos práticos de aplicações** e oportunidades de inovação;  
 - 🚀 **O impacto no mercado de trabalho** e a necessidade de **novas competências digitais**.  
 
-## 📌 Resumo
+### 📌 Resumo
 A palestra mostrou que a Web3 não é apenas uma mudança tecnológica, mas uma **transformação cultural e econômica**, capaz de redefinir a forma como lidamos com a **propriedade digital**.  
 O evento reforçou que compreender e desenvolver habilidades ligadas a esse ecossistema será essencial para profissionais do futuro.  
 
@@ -252,7 +252,7 @@ Entre os tópicos discutidos, destacaram-se:
 - 🌐 **Estratégias para ser reconhecido**, como montar um perfil profissional no **LinkedIn** e criar projetos pessoais no **GitHub**;  
 - 📚 **A importância da atualização constante** para se manter competitivo na área.  
 
-## 📌 Resumo
+### 📌 Resumo
 A palestra reforçou que o início da carreira em TI pode ser desafiador, mas existem caminhos para se destacar: **usar a tecnologia a seu favor, construir uma presença digital sólida e nunca parar de aprender**.  
 A mensagem central foi clara: **dedicação e atualização constante são as chaves para conquistar e manter espaço no mercado de tecnologia**.  
 
@@ -275,8 +275,6 @@ No encerramento, houve uma **dinâmica prática**:
 - Os **analistas de suporte** precisaram identificar a causa e repassar aos desenvolvedores;  
 - Os **desenvolvedores** tiveram então que propor a solução.  
 
----
-
-## 📌 Resumo
+### 📌 Resumo
 A palestra mostrou que o sucesso em TI vai além da técnica: exige **comunicação clara, colaboração entre áreas e aprendizado contínuo**.  
 A dinâmica final reforçou, de forma prática, como **suporte e desenvolvimento precisam trabalhar juntos** para resolver problemas de maneira eficiente.  
