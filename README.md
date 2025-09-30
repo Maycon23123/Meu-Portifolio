@@ -140,6 +140,28 @@ O bate-papo proporcionou uma visão **realista e motivadora** sobre o início da
 
 <img src="img/18-06-24.jpg" width="600"/>
 
+# 📚 Palestra: Explorando Homelabs  
+**Tema:** Por que Criar seu Próprio Ambiente de Desenvolvimento Pode Transformar sua Carreira em TI  
+**Evento:** ITIX  
+**Data:** 18/06/2024  
+**Palestrante:** Edmilson
+
+## 📝 O que foi dito
+Na palestra conduzida por **Edmilson**, foi explorado o conceito de **homelabs** como uma forma eficaz de impulsionar o aprendizado e o desenvolvimento em tecnologia.  
+
+Ele destacou:  
+- A importância de configurar um ambiente de desenvolvimento próprio.  
+- Como isso possibilita estudar novas tecnologias de forma aprofundada.  
+- A simulação de problemas reais encontrados no mercado.  
+- O ganho de experiência prática e contínua.  
+
+Ao final, os participantes foram convidados a refletir e responder sobre os conceitos abordados durante a apresentação.  
+
+## 📌 Resumo
+A palestra apresentou os **homelabs** como uma ferramenta essencial para quem deseja crescer na área de TI. Criar um ambiente de testes e aprendizado em casa é uma prática que não apenas fortalece o conhecimento técnico, mas também prepara os profissionais para enfrentar desafios reais do dia a dia.
+
+<img src="img/(2)18-06-24.jpg" width="600"/>
+
 ## 🛡️ Palestra Remota: Hacker do Bem e Segurança Digital no Dia a Dia – Eduzz  
 **Data:** 31/07/2024  
 
