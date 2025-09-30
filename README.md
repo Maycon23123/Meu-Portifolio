@@ -31,6 +31,8 @@ Carlos também compartilhou sua **experiência no mercado de tecnologia**, ressa
 ### ✨ Resumo  
 A palestra ofereceu uma visão inspiradora sobre a **trajetória da ITIX** e os **valores que guiam seu trabalho**, além de orientar os participantes quanto às **habilidades necessárias** e às **possibilidades de crescimento** na área de tecnologia.  
 
+<img src="img/04-05-23.png" width="400"/>
+
 ## 🚀 Palestra: De Estagiária a Analista de Requisitos – A Importância da Interpretação e do Relacionamento Humano (ITIX)  
 **Data:** 05/05/2023  
 
@@ -75,6 +77,8 @@ O encontro também trouxe orientações sobre **planejamento de atividades** e *
 ### ✨ Resumo  
 O treinamento proporcionou uma visão clara sobre os **princípios do gerenciamento de projetos** e a aplicação da **metodologia ágil**, incentivando a prática de técnicas modernas que tornam os projetos mais **eficientes, colaborativos e organizados**.  
 
+<img src="img/16-11-23.png" width="400"/>
+
 ## 🎨 Palestra: Criatividade e Inovação: Um Desafio Constante – ITIX  
 **Data:** 08/04/2024  
 
@@ -100,7 +104,9 @@ Após a apresentação, tivemos uma **atividade prática**: construir um curríc
 Essa prática evidenciou como funciona a **engenharia de prompt** e de que forma ela influencia diretamente os resultados obtidos com IA.  
 
 ### ✨ Resumo  
-A palestra destacou o **potencial transformador da Inteligência Artificial** no mercado de trabalho e mostrou, na prática, como **aplicar ferramentas de IA** em atividades do dia a dia, reforçando a importância da **engenharia de prompt** e da adaptação a esse novo cenário tecnológico.  
+A palestra destacou o **potencial transformador da Inteligência Artificial** no mercado de trabalho e mostrou, na prática, como **aplicar ferramentas de IA** em atividades do dia a dia, reforçando a importância da **engenharia de prompt** e da adaptação a esse novo cenário tecnológico.
+
+<img src="img/23-05-24.jpg" width="400"/>
 
 ## 🧑‍💼 Palestra Remota: Liderança e Gestão 3.0 – Eduzz  
 **Data:** 27/05/2024  
@@ -117,7 +123,9 @@ Os palestrantes também destacaram a **Gestão 3.0**, um modelo que valoriza:
 Esse modelo busca criar uma **cultura saudável e inovadora**, em que as equipes têm liberdade para tomar decisões e contribuir diretamente para o **sucesso organizacional**.  
 
 ### ✨ Resumo  
-A palestra mostrou como a **Gestão 3.0** se adapta ao contexto atual das organizações, estimulando a **autonomia, colaboração e inovação**. A transição do **Mundo VUCA para o Mundo BANI** reforça a necessidade de líderes e equipes preparados para lidar com cenários de **complexidade e incerteza**, de forma ágil e humana.  
+A palestra mostrou como a **Gestão 3.0** se adapta ao contexto atual das organizações, estimulando a **autonomia, colaboração e inovação**. A transição do **Mundo VUCA para o Mundo BANI** reforça a necessidade de líderes e equipes preparados para lidar com cenários de **complexidade e incerteza**, de forma ágil e humana.
+
+<img src="img/27-05-24.jpg" width="400"/>
 
 ## 💬 Bate-Papo com Estagiários da ITIX  
 **Data:** 18/06/2024  
@@ -128,7 +136,9 @@ Eles relataram as **habilidades adquiridas** e como têm aplicado o **conhecimen
 A conversa também trouxe **dicas valiosas** para se destacar nos **primeiros passos profissionais**.  
 
 ### ✨ Resumo  
-O bate-papo proporcionou uma visão **realista e motivadora** sobre o início da carreira em TI, reforçando a importância de desenvolver **habilidades práticas**, aproveitar as **oportunidades de aprendizado** e buscar **diferenciais para o crescimento profissional**.  
+O bate-papo proporcionou uma visão **realista e motivadora** sobre o início da carreira em TI, reforçando a importância de desenvolver **habilidades práticas**, aproveitar as **oportunidades de aprendizado** e buscar **diferenciais para o crescimento profissional**.
+
+<img src="img/18-06-24.jpg" width="400"/>
 
 ## 🛡️ Palestra Remota: Hacker do Bem e Segurança Digital no Dia a Dia – Eduzz  
 **Data:** 31/07/2024  
@@ -138,7 +148,10 @@ Na palestra remota, **Luiz Fernando Milagres**, da **Eduzz**, explicou o papel d
 Ele mostrou como os profissionais de segurança atuam para **proteger sistemas e dados**, além de destacar as **práticas essenciais** para fortalecer a segurança digital tanto em **ambientes profissionais** quanto **pessoais**.  
 
 ### ✨ Resumo  
-A palestra evidenciou a relevância da **segurança digital** e o impacto do trabalho dos **hackers éticos** na proteção de informações. Também reforçou a necessidade de adotar **hábitos seguros no dia a dia**, garantindo mais **confiança e proteção** no uso da tecnologia.  
+A palestra evidenciou a relevância da **segurança digital** e o impacto do trabalho dos **hackers éticos** na proteção de informações. Também reforçou a necessidade de adotar **hábitos seguros no dia a dia**, garantindo mais **confiança e proteção** no uso da tecnologia.
+
+<img src="img/31-07-24.jpg" width="400"/>
+<img src="img/(2)31-07-24.jpgg" width="400"/>
 
 ## 📂 Palestra Remota: Você é uma Pessoa Organizada? – Eduzz  
 **Data:** 28/08/2024  
@@ -151,7 +164,9 @@ Durante o encontro, foi realizada uma **atividade prática** em que escrevemos u
 O exercício evidenciou como a **forma de realizar uma tarefa** influencia diretamente na **eficiência** do trabalho.  
 
 ### ✨ Resumo  
-A palestra destacou que a **organização** é essencial para melhorar a **produtividade** e alcançar **resultados consistentes**, reforçando a importância de aplicar **estratégias simples e eficazes** no dia a dia.  
+A palestra destacou que a **organização** é essencial para melhorar a **produtividade** e alcançar **resultados consistentes**, reforçando a importância de aplicar **estratégias simples e eficazes** no dia a dia.
+
+<img src="img/28-08-24.jpg" width="400"/>
 
 ## 📊 Palestra Remota: Fluxo de Operações Comercial – Uno ERP  
 **Data:** 29/08/2024  
@@ -180,7 +195,9 @@ A apresentação também abordou o **potencial da IA** e de outras tecnologias a
 Essa visão trouxe uma perspectiva clara sobre o **futuro da tecnologia** e as **habilidades que serão valorizadas** nos próximos anos.  
 
 ### ✨ Resumo  
-A palestra destacou que a **IA Generativa** e outras tecnologias emergentes estão moldando o **futuro da TI**, abrindo espaço para **novas oportunidades**, **inovação** e a necessidade de profissionais cada vez mais **adaptáveis e preparados**.  
+A palestra destacou que a **IA Generativa** e outras tecnologias emergentes estão moldando o **futuro da TI**, abrindo espaço para **novas oportunidades**, **inovação** e a necessidade de profissionais cada vez mais **adaptáveis e preparados**.
+
+<img src="img/05-09-24.jpg" width="400"/>
 
 ## 🎯 Palestra Remota: Capricho – Skill Cada Vez Mais Raro no Mercado – Eduzz  
 **Data:** 24/09/2024  
@@ -192,7 +209,9 @@ Ele explicou como essa competência, muitas vezes **subestimada**, contribui dir
 A apresentação também incentivou os participantes a desenvolverem um **cuidado extra em suas atividades**, mostrando que o **capricho**, quando aliado às **habilidades técnicas**, se torna um **diferencial cada vez mais valorizado** pelos empregadores.  
 
 ### ✨ Resumo  
-A palestra reforçou que o **capricho** é uma **habilidade rara e valiosa** no mercado atual, capaz de elevar a **qualidade do trabalho** e gerar **resultados mais consistentes**, tornando-se um diferencial competitivo para os profissionais de TI.  
+A palestra reforçou que o **capricho** é uma **habilidade rara e valiosa** no mercado atual, capaz de elevar a **qualidade do trabalho** e gerar **resultados mais consistentes**, tornando-se um diferencial competitivo para os profissionais de TI.
+
+<img src="img/24-09-24.jpg" width="400"/>
 
 ## 💡 Palestra: Desenvolvimento Low Code – Tegra  
 **Data:** 10/10/2024  
@@ -203,7 +222,10 @@ Foram mostradas **vantagens e exemplos práticos**, incluindo o uso de plataform
 Ao final, os participantes responderam um **formulário** com questões sobre o conteúdo apresentado.  
 
 ### ✨ Resumo  
-A palestra mostrou que o **desenvolvimento Low Code** é uma tendência que **democratiza a criação de aplicações**, permitindo que profissionais de diferentes áreas construam soluções **rápidas e escaláveis**, mesmo sem profundo conhecimento em programação.  
+A palestra mostrou que o **desenvolvimento Low Code** é uma tendência que **democratiza a criação de aplicações**, permitindo que profissionais de diferentes áreas construam soluções **rápidas e escaláveis**, mesmo sem profundo conhecimento em programação.
+
+<img src="img/10-10-24.jpg" width="400"/>
+<img src="img/(2)10-10-24.jpg" width="400"/>
 
 # 📌 Live: Preparando-se para o Amanhã – Da ETEC/FATEC para o Mundo  
 📅 **Data:** 17/10/2024  
@@ -221,7 +243,10 @@ Foram apresentados conselhos práticos para os estudantes, com destaque para:
 - 🌟 **Valorizar as oportunidades** que surgem durante a jornada educacional e profissional.  
 
 ### 📌 Resumo
-A palestra destacou que a educação técnica e superior, aliada à dedicação e à busca constante por conhecimento, abre caminhos reais para o futuro profissional. O evento inspirou os estudantes a enxergarem a **Etec e a Fatec como trampolins para o mundo**, reforçando a importância do preparo, da resiliência e da valorização de cada etapa da formação.  
+A palestra destacou que a educação técnica e superior, aliada à dedicação e à busca constante por conhecimento, abre caminhos reais para o futuro profissional. O evento inspirou os estudantes a enxergarem a **Etec e a Fatec como trampolins para o mundo**, reforçando a importância do preparo, da resiliência e da valorização de cada etapa da formação.
+
+<img src="img/17-10-24.jpg" width="400"/>
+<img src="img/(2)17-10-24.jpg" width="400"/>
 
 # 🌐 Live: A Revolução da Web3 e a Propriedade Digital  
 📅 **Data:** 04/11/2024  
@@ -241,7 +266,10 @@ Entre os pontos abordados, destacaram-se:
 
 ### 📌 Resumo
 A palestra mostrou que a Web3 não é apenas uma mudança tecnológica, mas uma **transformação cultural e econômica**, capaz de redefinir a forma como lidamos com a **propriedade digital**.  
-O evento reforçou que compreender e desenvolver habilidades ligadas a esse ecossistema será essencial para profissionais do futuro.  
+O evento reforçou que compreender e desenvolver habilidades ligadas a esse ecossistema será essencial para profissionais do futuro.
+
+<img src="04-11-24.jpeg" width="400"/>
+<img src="img/(2)04-11-24.jpeg" width="400"/>
 
 # 💻 Palestra Remota: Desafios do Primeiro Emprego em TI e Como Superá-los  
 📅 **Data:** 10/04/2025  
